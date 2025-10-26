@@ -1,0 +1,9 @@
+Dataset,Graph_ID,Vertices,Edges,Algorithm,MST_Cost,Execution_Time_ms,Operation_Count
+Small_1,1,4,5,Prim,9,0.5876,23
+Small_1,1,4,5,Kruskal,9,0.2459,48
+Small_2,2,5,6,Prim,8,0.0313,29
+Small_2,2,5,6,Kruskal,8,0.0404,66
+Medium,2,10,12,Prim,49,0.0637,64
+Medium,2,10,12,Kruskal,49,0.0627,181
+Large,3,20,27,Prim,190,0.1506,136
+Large,3,20,27,Kruskal,190,0.1224,371
